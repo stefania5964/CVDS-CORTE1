@@ -31,3 +31,6 @@
 7. **Patterns**
 > se encontro que el patron que aplica en este proyecto es el patron estructurales
  ya que estos se encargan de realizar la estructara de las cosas
+
+8. **add,commit, push**
+![3](./3.png)
