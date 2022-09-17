@@ -1,9 +1,11 @@
 # *PARCIAL*
 ## Paso a paso  
 1. **se realizo el repositorio en nuestro github**
+
 ![1](./1.png)
 
 2. **clonar repositorio a refactorizar**
+
 ![2](./2.png)
 
 3.**Identificar malas practicas**
@@ -33,4 +35,5 @@
  ya que estos se encargan de realizar la estructara de las cosas
 
 8. **add,commit, push**
+
 ![3](./3.png)
