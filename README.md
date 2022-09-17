@@ -1,4 +1,5 @@
-# *PARCIAL*
+# *PARCIAL Daniel Builes- Stefania Giraldo*
+
 ## Paso a paso  
 1. **se realizo el repositorio en nuestro github**
 
