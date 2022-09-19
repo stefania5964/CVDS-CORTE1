@@ -11,9 +11,15 @@
 
 3.**Identificar malas practicas**
 > hacer una clase maestra donde contiene todos los metodos
+![3](./foto1.png)
+![6](./documentacion.png)
+
 > hace en una sola clase la parte de presentacion y la parte de dominio
+![4](./foto4.png)
+
 > no tiene documentacion
-> nombres de metodos poco intuitivos que no dicen nada a quien lee el codigo
+![5](./documentacion.png)
+
 
 4. **soluciones para malas practicas**
 > separar los metodos en diferentes clases y diferenciar funcionalidades de los metodos
@@ -23,8 +29,15 @@
 
 5.**UT**
 > una mala practica en las pruebas de unidad  es que falta especificar el patron AAA (Arrange,Act,Assert)
+![7](./tests.png)
+
 > En los test no se prueba en su totalidad lo que deberia realizar el programa(Mock)
+![8](./tests.png)
+
+
 > Las pruebas no se pueden realizar todas en un solo test,esto es una muy mala practica
+![9](./tests.png)
+
 
 6. **Soluciones UT**
 > se realiza el patron AAA a todas las pruebas
